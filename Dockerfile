@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:20.04
 LABEL maintainer="dev@anteru.net"
 ENV DEBIAN_FRONTEND noninteractive
 
